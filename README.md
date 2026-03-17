@@ -19,4 +19,4 @@ Use at your own risk ⚡… if you add RGB LEDs, your soldering soul is on your 
 ## Contact
 Questions, PCB collabs, or cursed MCU experiments? Reach me at: **ruzgarefecelik67@gmail.com**
 
-Check my [YouTube channel](https://www.youtube.com/channel/UCh0Gprh0Ou6Ah2s-69SvjJQ) or [Custom ROM Vault](https://bit.ly/m/customromvault) for more cursed projects.
+Check my [YouTube channel](https://www.youtube.com/channel/UCh0Gprh0Ou6Ah2s-69SvjJQ) or [Custom ROM Vault](https://rom-kasasi.netlify.app/) for more cursed projects.
