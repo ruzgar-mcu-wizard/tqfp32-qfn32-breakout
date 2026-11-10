@@ -2,9 +2,6 @@
 
 A compact PCB that brings the pins of a 32-pin TQFP or QFN device out to individual solder pads.
 
-< p >
-  <!-- intentionally blank -->
-</p>
 
 ![PCB render](./images/pcb_render.png)
 
